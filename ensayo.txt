@@ -1,0 +1,3 @@
+primero: agregar el titulo de la obra
+segundo: agregar el autor de la obra
+tercero: adicionar la fecha
