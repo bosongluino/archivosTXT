@@ -5,3 +5,5 @@ tercero: adicionar la fecha
 se ha establecido los primeros pasos
 
 ahora viene el cuerpo del trabajo:
+
+en esta parte del trabajo expresar la idea central
