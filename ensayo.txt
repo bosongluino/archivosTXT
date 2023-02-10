@@ -13,3 +13,6 @@ Agregar parrafos largos y cortos, muy concisos
 
 se crea una rama llamada chapter, en la cual se desarrolla la idea del capitulo
 capitulo Uno, introduccion. se desarrolla la idea general del capitulo
+
+
+en esta parte del trabajo introduzco el indice del libro
