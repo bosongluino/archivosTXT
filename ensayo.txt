@@ -10,3 +10,5 @@ en esta parte del trabajo expresar la idea central
 luego viene el desarrollo de la idea central
 
 Agregar parrafos largos y cortos, muy concisos
+
+se crea una rama llamada chapter, en la cual se desarrolla la idea del capitulo
