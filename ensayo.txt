@@ -1,4 +1,4 @@
-primero: agregar el titulo de la obra
+primero: agregar el titulo Estudio de QM con Esneyder
 segundo: agregar el autor de la obra
 tercero: adicionar la fecha
 
